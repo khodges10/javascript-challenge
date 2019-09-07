@@ -995,6 +995,6 @@ var data = [{
     country: "us",
     shape: "unknown",
     durationMinutes: "4 minutes",
-    comments: "Bright orange object&#44 rapid speed and direction changes .."
+    comments: "Bright orange object&#44 rapid speed and direction changes ."
   }
 ];
