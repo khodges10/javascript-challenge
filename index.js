@@ -153,5 +153,5 @@ function renderTable() {
     }
 }
 
-// Provides initial render on open
+// Provides initial render on ope
 renderTable();
